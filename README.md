@@ -1,3 +1,0 @@
-# ObeliskProjects
-Meu primeiro repositório
-
