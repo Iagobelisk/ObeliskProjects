@@ -28,14 +28,8 @@ function finalizar(){
 
         totimp.innerHTML = `Total de impostos foi de R$ ${(tot * ICMS + tot * IPI + tot * PIS + tot * COFINS).toFixed(2)}`
         totmerc.innerHTML = `Valor da mercadoria R$ ${(preco * qnt.value).toFixed(2)}`
-        totgeral.innerHTML = `O valor geral foi de R$ ${(preco * qnt.value + tot * ICMS + tot * IPI + tot * PIS + tot * COFINS).toFixed(2)}`
-
-        
-        
-        
-        
-        
-      
+        totgeral.innerHTML = `O valor geral foi de R$ ${(preco * qnt.value + tot * ICMS + tot * IPI + tot * PIS + tot * COFINS).toFixed(2)}`                
+       
     }   
 } 
 
