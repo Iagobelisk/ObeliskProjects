@@ -1,2 +1,0 @@
-# ObeliskProjects
-My first repository 
