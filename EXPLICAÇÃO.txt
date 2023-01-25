@@ -1,0 +1,3 @@
+Este código foi feito para calcular os impostos sobre um produto.
+Criei um site, que ao digitar o nome da empresa que comprará e a quantidade do produto e clickar em "finalizar a compra"
+será mostrado todos os impostos sobre a compra e o valor da compra sem o impostos.
