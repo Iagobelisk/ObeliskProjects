@@ -1,3 +1,3 @@
 Esse projeito foi feito para um processo de seleção na época.
-Modifiquei alguns nomes no HTML mas nao mexi no código JS. É um programa de compra de energético, que ao botar o nome do comprador e a quantidade de produtos, gera o calculo dos impostos e mostra todos os valores da compra, com e sem impostos.
+Modifiquei alguns nomes no HTML mas nao mexi no código JS. É um programa de compra de energético, que ao botar o nome do comprador e a quantidade de produtos, gera o cálculo dos impostos e mostra todos os valores da compra, com e sem impostos.
 ATENÇÃO: No meu Visual Studio Code, tento executar o código pelo live server, porém a parte do JS não funciona, sendo que nunca mexi no código desde a última vez que abri ele. HTML e CSS funcionam normalmente. Talvez seja algum problema no meu VSCode ou alguma falta de extensão ou atualização de extensão. 25/01/2023.
